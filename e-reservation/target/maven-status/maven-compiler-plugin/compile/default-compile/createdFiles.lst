@@ -1,0 +1,11 @@
+com\platzi\ereservation\modelo\Cliente.class
+com\platzi\ereservation\modelo\Reserva.class
+com\platzi\ereservation\util\SwaggerConfiguration.class
+com\platzi\ereservation\vista\resources\vo\ClienteVO.class
+com\platzi\ereservation\negocio\repository\ReservaRepository.class
+com\platzi\ereservation\EReservationApplication.class
+com\platzi\ereservation\negocio\services\ClienteService.class
+com\platzi\ereservation\negocio\repository\ClienteRepository.class
+com\platzi\ereservation\vista\resources\ClienteResource.class
+com\platzi\ereservation\vista\controllers\LoginController.class
+com\platzi\ereservation\util\BasicConfiguration.class
